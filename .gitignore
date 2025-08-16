@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+*.db
+*.csv
+code_log.txt
